@@ -87,6 +87,8 @@ a {
   font-weight: bold;
   background: darkblue;
   color: white;
+  border: 0;
+  font-size: 1rem;
 }
 
 .button:hover {

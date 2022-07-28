@@ -76,6 +76,7 @@ export default {
   padding: 1rem;
   width: 100%;
   font-weight: bold;
+  font-size: 1.3rem;
 }
 
 .button:hover {

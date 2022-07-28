@@ -87,6 +87,7 @@ export default {
   gap: 1rem;
   padding: 0.5rem;
   border: 1px solid rgba(128, 128, 128, 0.438);
+  align-items: center;
 }
 
 .price {

@@ -55,11 +55,22 @@ a:hover {
 .product-info {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 
 .product-image {
   height: 300px;
+}
+
+.product-name {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.product-price {
+  font-size: 1.3rem;
+  font-weight: 300;
 }
 
 .button {

@@ -45,6 +45,8 @@ export default {
 .container-fluid {
   display: flex;
   gap: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .image-product {

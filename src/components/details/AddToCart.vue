@@ -62,6 +62,7 @@ export default {
 </script>
 
 <style scoped>
+
 .add-item{
   display: flex;
   gap: 1rem;
@@ -83,5 +84,9 @@ export default {
 
 .cart-button:hover {
   background-color: #00b4b4;
+}
+
+.form-control {
+  width: 65px;
 }
 </style>
